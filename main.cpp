@@ -9,7 +9,6 @@ int main(int argc, const char* argv[]) {
     }
 
     // Import the scriptmodule from pytorch
-    // Note: this part is different from that of the tutorial
     torch::jit::script::Module module;
     try {
         module = torch::jit::load(argv[1]);

@@ -1,7 +1,7 @@
 # TorchScriptTutorial
 Trying out TorchScript to import a neural network model from Python to C++. 
 
-This tutorial can be found at https://brsoff.github.io/tutorials/advanced/cpp_export.html
+This tutorial can be found at https://pytorch.org/tutorials/advanced/cpp_export.html
 
 To run,
 

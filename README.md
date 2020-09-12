@@ -13,7 +13,7 @@ To run,
 
 Then installing cmake
 
-  	$ brew install cmake
+		$ brew install cmake
 
 3. Download libtorch C++/Java version at https://pytorch.org/get-started/locally/ and unzipping it.
 
@@ -23,7 +23,7 @@ Then installing cmake
 
 		$ mkdir build
   
-  	$ cd build
+		$ cd build
 
 6. Build and compile the program
 
